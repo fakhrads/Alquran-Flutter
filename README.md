@@ -4,10 +4,10 @@ Aplikasi Alquran berbasis flutter
 
 ## Getting Started
 
-> git clone https://github.com/fakhrads/Alquran-Flutter
-
-> cd Alquran-Flutter
-
-> flutter run
+```sh
+git clone https://github.com/fakhrads/Alquran-Flutter
+cd Alquran-Flutter
+flutter run
+```
 
 
